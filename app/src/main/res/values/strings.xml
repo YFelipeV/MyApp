@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MyApp</string>
+    <string name="titulo">App Ingles </string>
+    <string name="siguiente">Siguiente</string>
+    <string name="menu">Menu🕹️</string>
+    <string name="colores">Colores 🖍️</string>
+    <string name="red">Red</string>
+    <string name="blue">Blue</string>
+    <string name="pink">Pink</string>
+    <string name="frutas">Frutas🍇</string>
+    <string name="banano">Banana</string>
+    <string name="manzana">Apple</string>
+    <string name="naranja">Orange</string>
+    <string name="animales">Animales 🐕‍🦺</string>
+    <string name="perro">Dog</string>
+    <string name="gato">Cat</string>
+    <string name="vaca">Cow</string>
+</resources>

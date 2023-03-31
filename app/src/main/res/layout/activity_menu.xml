@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:layout_margin="20dp"
+    tools:context=".Menu">
+   <TextView
+       android:layout_width="wrap_content"
+       android:layout_height="100dp"
+       android:textSize="40sp"
+       android:layout_gravity="center"
+       android:textColor="@color/black"
+       android:fontFamily="sans-serif"
+       android:textStyle="bold"
+       android:text="@string/menu"
+       />
+   <Button
+       android:layout_width="250dp"
+       android:layout_height="55dp"
+       android:layout_gravity="center"
+       android:layaout_marginTop="10dp"
+       android:layout_margin="50dp"
+       android:text="@string/colores"
+       android:backgroundTint="#000000"
+
+
+       />
+   <Button
+       android:layout_width="250dp"
+       android:layout_height="55dp"
+       android:layout_gravity="center"
+       android:layout_marginTop="30dp"
+       android:layout_margin="50dp"
+       android:text="@string/frutas"
+       android:backgroundTint="#000000"
+
+
+       />
+   <Button
+       android:layout_width="250dp"
+       android:layout_height="55dp"
+       android:layout_gravity="center"
+       android:layout_margin="50dp"
+       android:text="@string/animales"
+       android:backgroundTint="#000000"
+
+       />
+
+
+</LinearLayout>
